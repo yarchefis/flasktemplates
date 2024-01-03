@@ -13,8 +13,7 @@ python(for linux user)
 ## Install and launch
 ### windows user
 Download the exe file.  
-Open cmd:  
-drag the exe into the cmd field, press the spacebar and drag the folder where you want to create the project  
+drag the folder onto the exe file
 ### linux user
 install python  
 Download the py file  
